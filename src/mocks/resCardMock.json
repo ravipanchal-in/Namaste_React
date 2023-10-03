@@ -1,0 +1,99 @@
+{
+  "id": "84070",
+  "name": "Gurukripa Restaurant - Sarwate",
+  "cloudinaryImageId": "g5txnz35wlrgbskk3r8y",
+  "locality": "Sarwate",
+  "areaName": "South Tukoganj",
+  "costForTwo": "₹250 for two",
+  "cuisines": [
+    "North Indian",
+    "Thalis",
+    "Indian",
+    "Fast Food",
+    "Chinese",
+    "Beverages",
+    "Desserts",
+    "Jain",
+    "Punjabi"
+  ],
+  "avgRating": 4,
+  "veg": true,
+  "feeDetails": {
+    "restaurantId": "84070",
+    "fees": [
+      {
+        "name": "BASE_DISTANCE",
+        "fee": 2600
+      },
+      {
+        "name": "BASE_TIME"
+      },
+      {
+        "name": "ANCILLARY_SURGE_FEE"
+      }
+    ],
+    "totalFee": 2600
+  },
+  "parentId": "92204",
+  "avgRatingString": "4.0",
+  "totalRatingsString": "10K+",
+  "sla": {
+    "deliveryTime": 21,
+    "lastMileTravel": 1.9,
+    "serviceability": "SERVICEABLE",
+    "slaString": "21 mins",
+    "lastMileTravelString": "1.9 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2023-09-30 23:59:00",
+    "opened": true
+  },
+  "badges": {
+    "imageBadges": [
+      {
+        "imageId": "v1695133679/badges/Pure_Veg111.png",
+        "description": "pureveg"
+      }
+    ]
+  },
+  "isOpen": true,
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {
+        "badgeObject": [
+          {
+            "attributes": {
+              "description": "pureveg",
+              "imageId": "v1695133679/badges/Pure_Veg111.png"
+            }
+          }
+        ]
+      },
+      "textBased": {},
+      "textExtendedBadges": {}
+    }
+  },
+  "aggregatedDiscountInfoV3": {
+    "header": "50% OFF",
+    "subHeader": "UPTO ₹100"
+  },
+  "orderabilityCommunication": {
+    "title": {},
+    "subTitle": {},
+    "message": {},
+    "customIcon": {}
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "restaurantOfferPresentationInfo": {}
+}
